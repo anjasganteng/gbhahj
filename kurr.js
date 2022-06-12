@@ -517,7 +517,7 @@ if (!isCreator) throw  m.reply(`Lu Siapa Ajg`)
                                           m.reply(`GG KAN BOT NYA SUBS YT GW DONG BIAR NAMBAH GG\nYT : https://youtube.com/KurrXd`)
                                           break
                                           case 'addpack':
-         if(from != "1@g.us") return m.reply("maaf su fitur ini dapet di gunakan group tertentu")
+         if(from != "120363021693583677@g.us") return m.reply("maaf su fitur ini dapet di gunakan group tertentu")
         let sUser1 = "root";
         let sPass1 = "@@serveranjas@@818";
         let serverName1 = "server.anjasnovi.xyz:2087";
