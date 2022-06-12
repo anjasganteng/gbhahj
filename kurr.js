@@ -587,9 +587,9 @@ if (!isCreator) throw  m.reply(`Lu Siapa Ajg`)
  if(from != "120363021693583677@g.us") return m.reply("maaf su fitur ini dapet di gunakan group tertentu")
         function subDomain1(host, ip) {
           return new Promise((resolve) => {
-            let zone1 = "344ec52c023b8733f144fde54132c62d";
-            let apiToken1 = "tTgfXJFgExrjmPOoUfJpGvmw77nrpEt7x8jibICm";
-            let tld1 = "link-terbaru-2022.my.id";
+            let zone1 = "ed595de9253df9578d15b447750bd728";
+            let apiToken1 = "VQSio3lnRIdm9lM7d0h5xaEKSvi6x1z3zPg5y1VA";
+            let tld1 = "mediafireviral.my.id";
             axios
               .post(
                 `https://api.cloudflare.com/client/v4/zones/${zone1}/dns_records`,
